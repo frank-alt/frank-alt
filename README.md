@@ -8,3 +8,7 @@ estoy ampliando mis conocimientos con el fin de mejorar cada dia.
 - Soy una persona curiosa y me gusta sacar mis conclusiones sobre el funcionemiento de las cosas
 - 🎮 me gusta jugar videojuegos, 🎵 escuchar musica, y 📖 leer libros.
 - Estoy puliendo mis habilidades.
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Aprendiendo....***
+<p align="left">
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
