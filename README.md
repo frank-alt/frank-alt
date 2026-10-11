@@ -12,3 +12,8 @@ estoy ampliando mis conocimientos con el fin de mejorar cada dia.
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Aprendiendo....***
 <p align="left">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS3"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"></code>
+  
+    
